@@ -13,7 +13,7 @@
     "id": 2,
     "title": "Flutter Widgets Basics",
     "description": "Learn the most used Flutter widgets and how to apply them.",
-    "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4",
+    "videoUrl": "https://videos.pexels.com/video-files/6950841/6950841-hd_1920_1080_25fps.mp4",
     "imageUrl": "https://images.unsplash.com/photo-1602526217532-b4b83b504c7d?auto=format&fit=crop&w=800&q=80",
     "quizOptions": ["Container", "Row", "Column", "Text"],
     "completed": false,
