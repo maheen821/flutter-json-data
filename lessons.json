@@ -4,7 +4,7 @@
     "title": "Introduction to Flutter",
     "description": "Understand what Flutter is and why it is used for cross-platform apps.",
     "videoUrl": "https://archive.org/download/Popeye_forPresident/Popeye_forPresident_512kb.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter1/600/400",
+    "imageUrl": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=800",
     "quizOptions": ["Google Flutter", "Android Studio", "Swift"],
     "completed": false,
     "bookmarked": false
@@ -13,8 +13,8 @@
     "id": 2,
     "title": "Flutter Widgets Basics",
     "description": "Learn the most used Flutter widgets and how to apply them.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-5s.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter2/600/400",
+    "videoUrl": "https://player.vimeo.com/external/371548120.sd.mp4?s=9f76c61a79d3b99c7efb6720d1c0a6c5a2ef9d4d&profile_id=139&oauth2_token_id=57447761",
+    "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=80",
     "quizOptions": ["Container", "Row", "Column", "Text"],
     "completed": false,
     "bookmarked": false
@@ -23,8 +23,8 @@
     "id": 3,
     "title": "Layouts in Flutter",
     "description": "Master Flutter layout widgets like Row, Column, Stack, and Flex.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-10s.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter3/600/400",
+    "videoUrl": "https://cdn.videvo.net/videvo_files/video/free/2015-07/small_watermarked/Time-Lapse%20Clouds%20Covering%20Sun_preview.webm",
+    "imageUrl": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800",
     "quizOptions": ["Stack", "Row", "Column", "Flex"],
     "completed": false,
     "bookmarked": false
@@ -34,7 +34,7 @@
     "title": "State Management",
     "description": "Learn how to manage state in Flutter using Provider and SetState.",
     "videoUrl": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter4/600/400",
+    "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
     "quizOptions": ["SetState", "Provider", "Bloc"],
     "completed": false,
     "bookmarked": false
@@ -43,8 +43,8 @@
     "id": 5,
     "title": "Navigation & Routing",
     "description": "Handle navigation between screens using Navigator and routes.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-20s.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter5/600/400",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "imageUrl": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800",
     "quizOptions": ["Navigator.push", "Navigator.pop", "Routes"],
     "completed": false,
     "bookmarked": false
@@ -53,8 +53,8 @@
     "id": 6,
     "title": "Flutter Buttons",
     "description": "Explore ElevatedButton, TextButton, and IconButton in Flutter.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-30s.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter6/600/400",
+    "videoUrl": "https://cdn.pixabay.com/vimeo/239190403/technology-13595.mp4?width=640&hash=7cc18f8b2b36b0d3d9d3b2e3a9c4c43f3fcd7db6",
+    "imageUrl": "https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=800&q=80",
     "quizOptions": ["ElevatedButton", "TextButton", "IconButton"],
     "completed": false,
     "bookmarked": false
@@ -63,8 +63,8 @@
     "id": 7,
     "title": "Text Fields & Forms",
     "description": "Learn to use TextField, Forms, and input validation in Flutter.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-40s.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter7/600/400",
+    "videoUrl": "https://media.istockphoto.com/id/1149426663/video/developer-programming-and-coding-technology.mp4?s=mp4-640x640-is&k=20&c=f",
+    "imageUrl": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=800",
     "quizOptions": ["TextField", "Form", "Controller"],
     "completed": false,
     "bookmarked": false
@@ -74,7 +74,7 @@
     "title": "Displaying Images",
     "description": "Learn to show local and network images using Image.asset and Image.network.",
     "videoUrl": "https://archive.org/download/SampleVideo1280x7205mb/SampleVideo_1280x720_5mb.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter8/600/400",
+    "imageUrl": "https://images.unsplash.com/photo-1526378722443-4d0a2aa2b58c?auto=format&fit=crop&w=800&q=80",
     "quizOptions": ["Image.asset", "Image.network", "CachedNetworkImage"],
     "completed": false,
     "bookmarked": false
@@ -83,8 +83,8 @@
     "id": 9,
     "title": "Animations in Flutter",
     "description": "Create smooth animations using AnimatedContainer and the animations package.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-1mb.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter9/600/400",
+    "videoUrl": "https://vod-progressive.akamaized.net/exp=1708610492~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F1437%2F16%2F409428902%2F1753298083.mp4~hmac=fe5c8f7f6e05707d8396edc50e226232d81a34a2a6c3652e1d834bd1d6d7f652/vimeo-prod-skyfire-std-us/01/1437/16/409428902/1753298083.mp4",
+    "imageUrl": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
     "quizOptions": ["AnimatedContainer", "FadeTransition", "ScaleTransition"],
     "completed": false,
     "bookmarked": false
@@ -93,8 +93,8 @@
     "id": 10,
     "title": "Conclusion & Tips",
     "description": "Final tips and summary to become a Flutter pro.",
-    "videoUrl": "https://sample-videos.com/video321/mp4/720/sample-2mb.mp4",
-    "imageUrl": "https://picsum.photos/seed/flutter10/600/400",
+    "videoUrl": "https://media.istockphoto.com/id/1389069172/video/futuristic-digital-technology.mp4?s=mp4-640x640-is&k=20&c=f",
+    "imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=800&q=80",
     "quizOptions": ["Review", "Practice", "Build Project"],
     "completed": false,
     "bookmarked": false
