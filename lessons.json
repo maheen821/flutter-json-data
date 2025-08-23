@@ -43,7 +43,7 @@
     "title": "Navigation & Routing",
     "description": "Handle navigation between screens using Navigator and routes.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-30s.mp4",
-    "imageUrl": "https://images.unsplash.com/photo-1505682634904-d7c1ed3ed1a6?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*IsDCFdkRzTBYmSZO0n421A.jpeg",
     "quizOptions": ["Navigator.push", "Navigator.pop", "Routes"],
     "completed": false,
     "bookmarked": false
