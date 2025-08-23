@@ -23,7 +23,7 @@
     "title": "Layouts in Flutter",
     "description": "Master Flutter layout widgets like Row, Column, Stack, and Flex.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
-    "imageUrl": "",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*defNrwfKumOoZOsuzi8gIg.gif",
     "quizOptions": ["Stack", "Row", "Column", "Flex"],
     "completed": false,
     "bookmarked": false
@@ -92,7 +92,7 @@
     "title": "Conclusion & Tips",
     "description": "Final tips and summary to become a Flutter pro.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-3mb.mp4",
-    "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*defNrwfKumOoZOsuzi8gIg.gif",
+    "imageUrl": "https://www.expertappdevs.com/sitebucket/blog/20221028131306-improve-flutter-app-performance.jpg",
     "quizOptions": ["Review", "Practice", "Build Project"],
     "completed": false,
     "bookmarked": false
