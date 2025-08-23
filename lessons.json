@@ -82,7 +82,7 @@
     "title": "Animations in Flutter",
     "description": "Create smooth animations using AnimatedContainer and the animations package.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-2mb.mp4",
-    "imageUrl": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*MNFQrttz3LljIlcqgQ83mA.png",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*GcqCagN2JjXOu5THd-0zgg.jpeg",
     "quizOptions": ["AnimatedContainer", "FadeTransition", "ScaleTransition"],
     "completed": false,
     "bookmarked": false
