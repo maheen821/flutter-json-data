@@ -53,8 +53,7 @@
     "title": "Flutter Buttons",
     "description": "Explore ElevatedButton, TextButton, and IconButton in Flutter.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-40s.mp4",
-    "imageUrl": "https://images.unsplash.com/photo-1581091012184-b8fcd8dc8c1f?auto=format&fit=crop&w=800&q=80",
-    "quizOptions": ["ElevatedButton", "TextButton", "IconButton"],
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AILXJMWwFufMo9lMFrmt4g.png"
     "completed": false,
     "bookmarked": false
   },
