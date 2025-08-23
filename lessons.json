@@ -23,7 +23,7 @@
     "title": "Layouts in Flutter",
     "description": "Master Flutter layout widgets like Row, Column, Stack, and Flex.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_vfRSpswQgIHHVHoGgdpQIBKengRkC3-fj-kbv5R9VaM5xm9N3HdbsVYClgW_3MqhKfvAFNmJHGpeeekX7hY1lhmPcs2tN1G7C3AUqe_CH4EvoSd8hgQejoVSD-WVu9_YAuxI6AZ2hhGATDsK7DLrjdvVJ6XTb1k_rJPfjzzP92JC128TKDJDsVRn/s16000/TEXTFIELD.jpg",
+    "imageUrl": "",
     "quizOptions": ["Stack", "Row", "Column", "Flex"],
     "completed": false,
     "bookmarked": false
@@ -62,7 +62,7 @@
     "title": "Text Fields & Forms",
     "description": "Learn to use TextField, Forms, and input validation in Flutter.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-50s.mp4",
-    "imageUrl": "https://images.unsplash.com/photo-1581090700223-6e243f9f7b36?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ai40mTrfDOBv035oRzvwlg.png",
     "quizOptions": ["TextField", "Form", "Controller"],
     "completed": false,
     "bookmarked": false
