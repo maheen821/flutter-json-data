@@ -33,7 +33,7 @@
     "title": "State Management",
     "description": "Learn how to manage state in Flutter using Provider and SetState.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-20s.mp4",
-    "imageUrl": "https://images.unsplash.com/photo-1605902711622-cfb43c44392b?auto=format&fit=crop&w=800&q=80",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AFkBIha-69F8196hXBwsoA.png",
     "quizOptions": ["SetState", "Provider", "Bloc"],
     "completed": false,
     "bookmarked": false
