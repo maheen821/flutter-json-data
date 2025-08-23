@@ -82,7 +82,7 @@
     "title": "Animations in Flutter",
     "description": "Create smooth animations using AnimatedContainer and the animations package.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-2mb.mp4",
-    "imageUrl": "https://fluttergems.dev/media-cards/ripple_wave.png",
+    "imageUrl": "https://repository-images.githubusercontent.com/213434645/55ec9180-6351-11eb-929a-0648be85165b",
     "quizOptions": ["AnimatedContainer", "FadeTransition", "ScaleTransition"],
     "completed": false,
     "bookmarked": false
