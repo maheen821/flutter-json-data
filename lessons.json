@@ -6,7 +6,24 @@
     "videoUrl": "https://videos.pexels.com/video-files/4708370/4708370-uhd_2732_1440_25fps.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*BEzW0kAmmZWVCeY_.jpeg",
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "What is Flutter?",
+        "options": ["Framework", "Database", "IDE"],
+        "correctAnswer": "Framework"
+      },
+      {
+        "question": "Who created Flutter?",
+        "options": ["Apple", "Google", "Microsoft"],
+        "correctAnswer": "Google"
+      },
+      {
+        "question": "Flutter is mainly used for?",
+        "options": ["Cross-platform apps", "Game Engines", "Operating Systems"],
+        "correctAnswer": "Cross-platform apps"
+      }
+    ]
   },
   {
     "id": 2,
@@ -14,9 +31,25 @@
     "description": "Learn the most used Flutter widgets and how to apply them.",
     "videoUrl": "https://videos.pexels.com/video-files/6950841/6950841-hd_1920_1080_25fps.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*HqUv6ribOz-2v9ZuWDWIFA.jpeg",
-    "quizOptions": ["Container", "Row", "Column", "Text"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which widget is used to show text?",
+        "options": ["Scaffold", "Text", "AppBar"],
+        "correctAnswer": "Text"
+      },
+      {
+        "question": "Which widget arranges items vertically?",
+        "options": ["Column", "Row", "Stack"],
+        "correctAnswer": "Column"
+      },
+      {
+        "question": "Which widget is used for layouts?",
+        "options": ["Container", "Row", "Column", "All of these"],
+        "correctAnswer": "All of these"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,9 +57,25 @@
     "description": "Master Flutter layout widgets like Row, Column, Stack, and Flex.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*defNrwfKumOoZOsuzi8gIg.gif",
-    "quizOptions": ["Stack", "Row", "Column", "Flex"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which widget arranges items horizontally?",
+        "options": ["Column", "Row", "Stack"],
+        "correctAnswer": "Row"
+      },
+      {
+        "question": "Which widget overlays children?",
+        "options": ["Stack", "Column", "Flex"],
+        "correctAnswer": "Stack"
+      },
+      {
+        "question": "Which widget is flexible in layout?",
+        "options": ["Flex", "Scaffold", "ListView"],
+        "correctAnswer": "Flex"
+      }
+    ]
   },
   {
     "id": 4,
@@ -34,9 +83,25 @@
     "description": "Learn how to manage state in Flutter using Provider and SetState.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-20s.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AFkBIha-69F8196hXBwsoA.png",
-    "quizOptions": ["SetState", "Provider", "Bloc"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which is simplest way to manage state?",
+        "options": ["Provider", "Bloc", "setState"],
+        "correctAnswer": "setState"
+      },
+      {
+        "question": "Which is a state management package?",
+        "options": ["Provider", "HTTP", "SharedPrefs"],
+        "correctAnswer": "Provider"
+      },
+      {
+        "question": "Bloc is used for?",
+        "options": ["Animations", "State Management", "Navigation"],
+        "correctAnswer": "State Management"
+      }
+    ]
   },
   {
     "id": 5,
@@ -44,9 +109,25 @@
     "description": "Handle navigation between screens using Navigator and routes.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-30s.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*IsDCFdkRzTBYmSZO0n421A.jpeg",
-    "quizOptions": ["Navigator.push", "Navigator.pop", "Routes"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which method is used to go to a new screen?",
+        "options": ["Navigator.push", "Navigator.pop", "Navigator.clear"],
+        "correctAnswer": "Navigator.push"
+      },
+      {
+        "question": "Which method is used to go back?",
+        "options": ["Navigator.pop", "Navigator.exit", "Navigator.remove"],
+        "correctAnswer": "Navigator.pop"
+      },
+      {
+        "question": "What does route define?",
+        "options": ["State", "Path to screen", "Theme"],
+        "correctAnswer": "Path to screen"
+      }
+    ]
   },
   {
     "id": 6,
@@ -55,7 +136,24 @@
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-40s.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AILXJMWwFufMo9lMFrmt4g.png",
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which button has background color?",
+        "options": ["TextButton", "ElevatedButton", "IconButton"],
+        "correctAnswer": "ElevatedButton"
+      },
+      {
+        "question": "Which button is for clickable icons?",
+        "options": ["TextButton", "IconButton", "RaisedButton"],
+        "correctAnswer": "IconButton"
+      },
+      {
+        "question": "Which is the flat styled button?",
+        "options": ["TextButton", "ElevatedButton", "FloatingActionButton"],
+        "correctAnswer": "TextButton"
+      }
+    ]
   },
   {
     "id": 7,
@@ -63,9 +161,25 @@
     "description": "Learn to use TextField, Forms, and input validation in Flutter.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-50s.mp4",
     "imageUrl": "https://us1.discourse-cdn.com/flex016/uploads/rapyd/original/3X/3/a/3a4a82cca4da77ea1288c7fe3369211a4ff50964.png",
-    "quizOptions": ["TextField", "Form", "Controller"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which widget takes text input?",
+        "options": ["TextField", "Form", "Container"],
+        "correctAnswer": "TextField"
+      },
+      {
+        "question": "Which groups form inputs?",
+        "options": ["Column", "Form", "Scaffold"],
+        "correctAnswer": "Form"
+      },
+      {
+        "question": "Which controller is used with TextField?",
+        "options": ["PageController", "TextEditingController", "TabController"],
+        "correctAnswer": "TextEditingController"
+      }
+    ]
   },
   {
     "id": 8,
@@ -73,9 +187,25 @@
     "description": "Learn to show local and network images using Image.asset and Image.network.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-1mb.mp4",
     "imageUrl": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?auto=format&fit=crop&w=800&q=80",
-    "quizOptions": ["Image.asset", "Image.network", "CachedNetworkImage"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which widget loads local images?",
+        "options": ["Image.asset", "Image.network", "CachedNetworkImage"],
+        "correctAnswer": "Image.asset"
+      },
+      {
+        "question": "Which widget loads network images?",
+        "options": ["Image.asset", "Image.network", "Text"],
+        "correctAnswer": "Image.network"
+      },
+      {
+        "question": "Which widget caches images?",
+        "options": ["CachedNetworkImage", "Image.network", "Container"],
+        "correctAnswer": "CachedNetworkImage"
+      }
+    ]
   },
   {
     "id": 9,
@@ -83,9 +213,25 @@
     "description": "Create smooth animations using AnimatedContainer and the animations package.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-2mb.mp4",
     "imageUrl": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*GcqCagN2JjXOu5THd-0zgg.jpeg",
-    "quizOptions": ["AnimatedContainer", "FadeTransition", "ScaleTransition"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "Which widget animates size/shape?",
+        "options": ["AnimatedContainer", "Row", "Column"],
+        "correctAnswer": "AnimatedContainer"
+      },
+      {
+        "question": "Which widget fades widgets?",
+        "options": ["FadeTransition", "ScaleTransition", "SlideTransition"],
+        "correctAnswer": "FadeTransition"
+      },
+      {
+        "question": "Which widget scales widgets?",
+        "options": ["ScaleTransition", "FadeTransition", "Stack"],
+        "correctAnswer": "ScaleTransition"
+      }
+    ]
   },
   {
     "id": 10,
@@ -93,8 +239,24 @@
     "description": "Final tips and summary to become a Flutter pro.",
     "videoUrl": "https://samplelib.com/lib/preview/mp4/sample-3mb.mp4",
     "imageUrl": "https://www.expertappdevs.com/sitebucket/blog/20221028131306-improve-flutter-app-performance.jpg",
-    "quizOptions": ["Review", "Practice", "Build Project"],
     "completed": false,
-    "bookmarked": false
+    "bookmarked": false,
+    "quiz": [
+      {
+        "question": "How to master Flutter?",
+        "options": ["Just Read Docs", "Practice and Build", "Do Nothing"],
+        "correctAnswer": "Practice and Build"
+      },
+      {
+        "question": "What is important for performance?",
+        "options": ["Optimized widgets", "Heavy builds", "Ignoring state"],
+        "correctAnswer": "Optimized widgets"
+      },
+      {
+        "question": "Final step to become pro?",
+        "options": ["Build Projects", "Read Theory Only", "Skip Practice"],
+        "correctAnswer": "Build Projects"
+      }
+    ]
   }
 ]
